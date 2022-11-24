@@ -1,6 +1,6 @@
 Olá! Eu sou Biel Ferraz (ANO DE COPA DO MUNDO)
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__b.i.e.l__10/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__bielferraz__/)
 
 
 [![Blog](https://img.shields.io/badge/twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/M_Biel_Ferraz)
